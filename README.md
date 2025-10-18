@@ -27,7 +27,7 @@ Este repositorio documenta, de forma sencilla, cómo conecté un clúster de Had
 
 ---
 
-## Arquitectura (visión simple)
+## Arquitectura 
 
 - **Máquina A: Clúster Dataproc (Hadoop/Hive).**
 - **Máquina B: VM con Elasticsearch** (y Kibana en la misma VM para simplificar).
