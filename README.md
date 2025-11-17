@@ -1,4 +1,4 @@
-# Práctica Big Data: Hadoop ↔ Elasticsearch ↔ Kibana (For Dummies)
+# Práctica Big Data: Hadoop ↔ Elasticsearch ↔ Kibana 
 
 Este repositorio documenta, de forma sencilla, cómo conecté un clúster de Hadoop/Hive con un servidor de Elasticsearch y visualicé los datos en Kibana. No es una guía profesional ni de producción; es un resumen didáctico de lo que se hizo en una práctica de Bootcamp para entender los componentes y cómo se relacionan.
 
